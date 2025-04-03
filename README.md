@@ -13,3 +13,6 @@ Este projeto consiste em uma página de oferta de assinatura que direciona o usu
 ✅ Layout responsivo
 
 ✅ Design intuitivo
+
+## Acesso
+**Link para o projeto:** https://vinist021.github.io/Projeto_Pagina_Assinatura/
