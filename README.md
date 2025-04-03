@@ -7,9 +7,9 @@ Este projeto consiste em uma página de oferta de assinatura que direciona o usu
 * CSS
 
 ## Funcionalidades
-✅ Página de oferta de assinatura
 
-✅ Redirecionamento para a página de cadastro
+✅ Redirecionamento entre páginas
 
 ✅ Layout responsivo
 
+✅ Design intuitivo
